@@ -1,0 +1,37 @@
+﻿<Window x:Class="autowpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:autowpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" Margin="15">
+
+        <!-- Datagrid -->
+        <DataGrid x:Name="dgTablazat" Height="250"/>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,20,0,0" Width="770">
+
+            <!-- Speckó lista -->
+            <StackPanel Orientation="Vertical" Margin="20,0,20,0">
+                <Label Content="Speckó lista:"/>
+                <ListBox x:Name="lbSpecko" Height="90" Width="120"/>
+            </StackPanel>
+
+            <!-- Év megadás -->
+            <StackPanel Orientation="Horizontal" Margin="20,0,20,0">
+                <Label Content="Év:" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtEv" Width="100" Height="30" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" TextChanged="txtEv_TextChanged"/>
+            </StackPanel>
+
+            <!-- Gombok -->
+            <StackPanel Orientation="Horizontal" Margin="20,0,20,0">
+                <Button x:Name="btnBetolt" Content="Betölt" Width="100" Height="30" Margin="0,0,100,0" Click="btnBetolt_Click"/>
+                <Button x:Name="btnBezar" Content="Bezár" Width="100" Height="30" Click="btnBezar_Click"/>
+            </StackPanel>
+            
+        </StackPanel>
+
+    </StackPanel>
+</Window>
