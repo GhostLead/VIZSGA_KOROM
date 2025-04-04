@@ -1,0 +1,14 @@
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\bin\Debug\net8.0\autoapp.exe
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\bin\Debug\net8.0\autoapp.deps.json
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\bin\Debug\net8.0\autoapp.runtimeconfig.json
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\bin\Debug\net8.0\autoapp.dll
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\bin\Debug\net8.0\autoapp.pdb
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfoInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfo.cs
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.csproj.CoreCompileInputs.cache
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.dll
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\refint\autoapp.dll
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.pdb
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\autoapp.genruntimeconfig.cache
+C:\Users\barizs.marton.daniel\source\repos\autoapp\autoapp\obj\Debug\net8.0\ref\autoapp.dll
